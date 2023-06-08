@@ -96,6 +96,12 @@ Clone this repository to your desired folder:
    ```shell
    gcc fibonacci.c -o fibonacci
    ```
+## test
+
+```
+gcc test_fibonacci.c -o test_fibonacci
+./test_fibonacci
+```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
